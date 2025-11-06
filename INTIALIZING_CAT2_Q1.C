@@ -1,0 +1,14 @@
+/*
+NAME: BAZARIN NGIGI WANYORO
+REGESTRATION NUMBER:CT101/G/29270/25
+PROGRAM DESCRIPTION:INITIALIZING 2D ARRAY
+*/
+
+int scores[2][2] = {
+    {65, 92},
+    {84, 72}
+};
+int scores2[2][2] = {
+    {35, 70},
+    {59, 67}
+};
